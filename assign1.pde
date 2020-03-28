@@ -93,5 +93,4 @@ void draw() {
   lightStartX = robotX+25;
   lightEndX = robotX+25;
   }
-
 }
